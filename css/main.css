@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    height: 100vh;
+}
+
+canvas{
+    display: block;
+}
+h2{
+    color: coral;
+    margin-left: 100px;
+    text-align: center;
+}
